@@ -1,0 +1,5 @@
+C:\Users\Cedric\Desktop\Apps\LinkedListofDrugs\LinkedListofDrugs\bin\Debug\LinkedListofDrugs.exe.config
+C:\Users\Cedric\Desktop\Apps\LinkedListofDrugs\LinkedListofDrugs\bin\Debug\LinkedListofDrugs.exe
+C:\Users\Cedric\Desktop\Apps\LinkedListofDrugs\LinkedListofDrugs\bin\Debug\LinkedListofDrugs.pdb
+C:\Users\Cedric\Desktop\Apps\LinkedListofDrugs\LinkedListofDrugs\obj\Debug\LinkedListofDrugs.exe
+C:\Users\Cedric\Desktop\Apps\LinkedListofDrugs\LinkedListofDrugs\obj\Debug\LinkedListofDrugs.pdb
